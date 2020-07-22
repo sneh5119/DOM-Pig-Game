@@ -15,6 +15,9 @@ GAME RULES:
 
 ![PiG GAME](https://user-images.githubusercontent.com/63977692/88197724-7def8f80-cc60-11ea-961f-88ad073dcd00.png)
 
+![DOM PIG GAME @](https://user-images.githubusercontent.com/63977692/88200527-e2601e00-cc63-11ea-90a0-1f740c76ed61.png)
+
+
 
 
 
