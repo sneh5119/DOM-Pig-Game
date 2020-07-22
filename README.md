@@ -13,6 +13,8 @@ GAME RULES:
 - The first player to reach 100 points on GLOBAL score wins the game
 ************************************************************************************************************************************************
 
+![PiG GAME](https://user-images.githubusercontent.com/63977692/88197724-7def8f80-cc60-11ea-961f-88ad073dcd00.png)
+
 
 
 
